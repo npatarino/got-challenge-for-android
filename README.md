@@ -8,7 +8,7 @@ Game of Thrones for Android Challenge offers an app using an API to get data for
 
 This repository contains an Android app that retrieve a list of some [Game of Thrones][GameOfThronesLink]' characters from an API. The app shows a list of the houses of the characters, the characters themselves and a detail description of each one.
 
-This behaviour it's done in two diffent [Activities][ActivityLink], uno for the two lists and other for details of the character:
+This behaviour it's done in two diffent [Activities][ActivityLink], one for the two lists and other for details of the character:
 
 ![ScreenshotListCharacters][ScreenshotListCharacters]![ScreenshotListHouses][ScreenshotListHouses]![ScreenshotDetail][ScreenshotDetail]  
 * ``HomeActivity`` contains two [Fragments][FragmentLink] in a [ViewPager][ViewPagerLink]
@@ -37,9 +37,8 @@ Your task as Android Developer is **clone** or **fork** this repository into one
 3. Add parallax effect into detail page
 
 ###### Once you've finished
-1. Give a watcher permission to [npatarino][npatarino] Github user
-2. Notify by email to npatarino@idealista.com
-3. Have a rest after this "beautiful" code
+1. Notify by email to rrhh@idealista.com
+2. Have a rest after this "beautiful" code
 
 #License
 
