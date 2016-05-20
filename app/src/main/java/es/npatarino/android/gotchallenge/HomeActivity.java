@@ -96,7 +96,7 @@ public class HomeActivity extends AppCompatActivity {
 
                 @Override
                 public void run() {
-                    String url = "http://52.18.228.107:3000/characters";
+                    String url = "https://project-8424324399725905479.firebaseio.com/characters.json?print=pretty";
 
                     URL obj = null;
                     try {
@@ -155,7 +155,7 @@ public class HomeActivity extends AppCompatActivity {
 
                 @Override
                 public void run() {
-                    String url = "http://52.18.228.107:3000/characters";
+                    String url = "https://project-8424324399725905479.firebaseio.com/characters.json?print=pretty";
 
                     URL obj = null;
                     try {
